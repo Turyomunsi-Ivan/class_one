@@ -1,2 +1,2 @@
 # class_one
-Its a test repo.
+Its a test repository file.
